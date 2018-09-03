@@ -1,6 +1,6 @@
-# Reading
+# READING
 
-## Reference Book
+## REFERENCE BOOK
 
 * [ ] [《如何阅读一本书》](./《如何阅读一本书》.md)  
   
@@ -9,14 +9,14 @@
 * [x] [《神奇手账》](./《神奇手账》.md)
 
 
-## Novel NOVEL
+## NOVEL
 
 * [x] [《无声告白》](./《无声告白》.md)
 
 * [x] [《龙枪编年史》](./《龙枪编年史》.md)  
 
 
-## Philosophy PHILOSOPHY
+## PHILOSOPHY
 
 * [x] [《谈美书简》](./《谈美书简》.md)
 
